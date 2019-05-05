@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/LogoSplashScene.unity
+    guid: 05f4a6afd0da39647abf06f1a5fe2a32
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/TitleScreen.unity
+    guid: bff7078392b90024ca9f379d2b406798
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/MouseScene.unity
+    guid: 2ce11f2d2c42cb74ba588b808a249d09
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/Beginning.unity
+    guid: 2c141cade8676db4bb3adb231eec9852
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/TreeSequoiaOpening.unity
+    guid: 73e51798da975094d89a1e862d7fa287
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/TreeSequoia.unity
+    guid: 4e8c1d9b721f1b0429d020d0384a6726
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/SequoiaToAndan.unity
+    guid: 26fdf732d199a314a9e450909f8333b1
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/TreeAdansoniaOpening.unity
+    guid: 3185907ef1810d14a82775de8922502b
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/TreeAdansonia.unity
+    guid: f0d31df0715c7bb4aa91b370362889eb
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/AdanToAsh.unity
+    guid: 96e0c44feaa17ce4abe304198d72c64c
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/TreeAshOp.unity
+    guid: 00dfb29c671dcd2418ed1f6fa13889d8
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/TreeAshh.unity
+    guid: 99b388e6094bba144b3a7c3eaed57ab3
+  - enabled: 1
+    path: Assets/Scenes/FINALSCENES/EndScene.unity
+    guid: 2f9ee530df0bf00419d4e83078e130e2
+  m_configObjects: {}
