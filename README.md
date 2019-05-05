@@ -7,6 +7,7 @@ DESCRIPTION:
 
 
 CONTROLS:
+
 	A,D:		 	MOVE left and right
 	W or Space:	 	JUMP
 	Mouse Left Click:	Throw Crystal
@@ -16,10 +17,11 @@ CONTROLS:
 
 
 CREDITS:
-	Atsina Corrington:		Game Design, Level Design, Narrative Design, Artist, 
-					UI & Scene Management
 
-	Richard Flores:			Game Design, Gameplay Programming
+	Richard Flores:			Lead Gameplay Programming, Game Design
+
+	Atsina Corrington:		Lead Game Design, Level Design, Narrative Design, Artist, 
+					UI & Scene Management
 
 	Nathan Wolfe:			Background Music, Sound Effects
 
